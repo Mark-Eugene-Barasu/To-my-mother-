@@ -1,0 +1,22 @@
+main h1, main h2 {
+  text-align: center;
+  text-decoration: underline;
+}
+main h2 {
+  text-decoration: none;
+}
+main p {
+  background-color: rgba(0, 0, 0, 0.795);
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+}
+main p span {
+  color: orange;
+  font-size: x-large;
+}
+main div {
+  text-align: center;
+  font-size: 200px;
+  color: red;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,29 @@
+
+main {
+    h1, h2 {
+        text-align: center;
+        text-decoration: underline;
+    }
+    h2 {
+        text-decoration: none;
+    }
+    p{
+        background-color: rgba(0, 0, 0, 0.795);
+        text-align: center;
+        color: white;
+        border-radius: 10px;
+        
+        span {
+            color: orange;
+            font-size: x-large;
+        }
+    }
+
+    div{
+        text-align: center;
+        font-size: 200px;
+        color: red;
+    }
+}
+
+
